@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @LeonardoBalestere
 - 👀 I’m interested in learning something new every day
 - 🌱 I’m currently learning kotlin
+- 🧠 I know the basic of:
+    * *Kotlin* - Mainly
+    * C
+    * C++
+    * Java
+    * Linux
 - 💞️ I’m looking to collaborate on everis
 - 📫 How to reach me :
 --- https://www.linkedin.com/in/leonardo-balestere-175a991b5/
