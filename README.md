@@ -1,15 +1,20 @@
-- 👋 Hi, I’m @LeonardoBalestere
-- 👀 I’m interested in learning something new every day
-- 🌱 I’m currently learning kotlin
-- 🧠 I know the basic of:
-    * *Kotlin* - Mainly
-    * C
-    * C++
-    * Java
-    * Linux
-- 💞️ I’m looking to collaborate on everis
-- 📫 How to reach me :
---- https://www.linkedin.com/in/leonardo-balestere-175a991b5/
+# Hello and welcome!
+
+## I'm Leo, and here is something about me:
+
+My first language was C.
+
+I started studying java to focus on the job market, but I changed my focus on Digital Innovation One.
+
+I finish the Everis Kotlin Bootcamp and know I'm focus in learning kotlin.
+
+I want to evolve each day both as a person and as a professional
+
+
+## Contacts ##
+[LinkedIn](https://www.linkedin.com/in/leonardo-balestere-175a991b5/)
+
+E-mail: alvesleonardo92@hotmail.com
 
 <!---
 LeonardoBalestere/LeonardoBalestere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
