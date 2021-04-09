@@ -4,6 +4,8 @@
 
 My first language was C.
 
+I study Computer Information System in UFU
+
 I started studying java to focus on the job market, but I changed my focus on Digital Innovation One.
 
 I finish the Everis Kotlin Bootcamp and know I'm focus in learning kotlin.
