@@ -2,11 +2,9 @@
 
 ## I'm Leo, and here is something about me:
 
-My first language was C.
-
 I study Computer Information System in UFU
 
-I started studying java to focus on the job market, but I changed my focus on Digital Innovation One.
+I started studying java to focus on the job market, and update to kotlin at Digital Inovation One.
 
 I finish the Everis Kotlin Bootcamp and know I'm focus in learning kotlin.
 
