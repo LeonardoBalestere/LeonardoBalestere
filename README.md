@@ -1,12 +1,14 @@
-# Hello and welcome!
+# Welcome!
 
-## I'm Leo, and here is something about me:
+## Hi, I'm Leo, and here is something about me:
 
 I study Computer Information System in UFU
 
 I started studying java to focus on the job market, and update to kotlin at Digital Inovation One.
 
-I finish the Everis Kotlin Bootcamp and know I'm focus in learning kotlin.
+I finish the Everis Kotlin Bootcamp and started QA Bootcamp.
+
+And I finish Everis QA Bootcamp.
 
 I want to evolve each day both as a person and as a professional
 
