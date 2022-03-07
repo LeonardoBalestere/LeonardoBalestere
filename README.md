@@ -4,10 +4,7 @@
 
 I study Computer Information System in UFU
 
-I started studying java to focus on the job market, and update to kotlin at Digital Inovation One, after that i started QA Bootcamp and pretent do focus in QA or Backend.
-
-I want to evolve each day both as a person and as a professional
-
+Work with C# in SimTech
 
 ## Contacts ##
 [LinkedIn](https://www.linkedin.com/in/leonardobalestere/)
