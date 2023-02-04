@@ -4,7 +4,19 @@
 
 I study Computer Information System in UFU
 
-Work with C# in SimTech
+Working at SimTech
+
+Technologies:
+  .NET 
+  C#  
+  VB
+  
+  HTML
+  CSS
+  JS
+  
+  ORACLE
+  SQLSERVER
 
 ## Contacts ##
 [LinkedIn](https://www.linkedin.com/in/leonardobalestere/)
