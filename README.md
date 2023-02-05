@@ -1,10 +1,10 @@
-# Welcome!
+# Welcome!👋👋
 
-## Hi, I'm Leo, and here is something about me:
+## Hi, I'm Bale, and here is something about me 😁😁: 
 
-I study Computer Information System in UFU
+I'm studying Computer Information System at UFU 🎓🎓🎓
 
-Working at SimTech
+Working at SimTech 🧑🏿‍💼🧑🏿‍💼
 
 Technologies:
   .NET 
