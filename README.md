@@ -6,17 +6,14 @@ I'm studying Computer Information System at UFU 🎓🎓🎓
 
 Working at SimTech 🧑🏿‍💼🧑🏿‍💼
 
+
 Technologies:
-  .NET 
-  C#  
-  VB
+
+  .NET | C# | VB
   
-  HTML
-  CSS
-  JS
+  HTML | CSS | JS
   
-  ORACLE
-  SQLSERVER
+  ORACLE | SQLSERVER
 
 ## Contacts ##
 [LinkedIn](https://www.linkedin.com/in/leonardobalestere/)
