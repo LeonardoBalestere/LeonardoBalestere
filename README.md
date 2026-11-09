@@ -7,7 +7,7 @@ That's 4+ years on credit, insurance, card-acquiring and retail systems. My stre
 ## 🚀 What I've Delivered
 
 * **Tribanco (2026):** the R$ 2M to R$ 5M limit change across two .NET APIs and the Angular front end, with new contract and billing statuses that prevent double billing. Raised test coverage from 70% to 80% with xUnit.
-* **Martins / SIMTech (2021–2025):** cut PDV invoice processing from hours to minutes with parallel processing, moved the spreadsheet imports that kept crashing the CRM off its web server, and took over the Azure DevOps CI/CD setup when the consultancy's contract ended.
+* **Martins / SIMTech (2021–2025):** cut PDV invoice processing from hours to minutes with parallel processing and moved the spreadsheet imports that kept crashing the CRM off its web server. When the consultancy's contract ended, I took over the Azure DevOps CI/CD setup.
 * **Integrations:** automatic debit with a bank over SFTP, shipment tracking through the Correios API, and a daily customer feed to a marketing platform.
 
 ## 🤖 How I Use AI
