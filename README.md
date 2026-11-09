@@ -1,30 +1,35 @@
 # Hi, I'm Leonardo (Bale)! 👋
 
-I'm a Backend Developer specializing in the **.NET ecosystem**, focused on building scalable, observable systems and modernizing legacy applications. Currently completing a degree in Information Systems Management at UFU (Federal University of Uberlândia).
+I'm a .NET developer (backend and full stack) who builds with AI every day. I cut CPU usage of Oracle routines by 60%, halved deploy time, and delivered ahead of schedule a credit-limit increase from R$ 2M to R$ 5M at Tribanco.
 
-My background spans 4+ years working with C#, relational databases at transactional scale (SQL Server, Oracle), and distributed systems — from message-driven architectures to CI/CD pipelines and production observability.
+That's 4+ years on credit, insurance, card-acquiring and retail systems. My strength is the backend (C#, REST APIs, SQL Server and Oracle), and I also ship front-end work in Angular and React. Currently completing a degree in Information Systems Management at UFU (Federal University of Uberlândia).
 
-## 🚀 Tech Stack & Tools
+## 🚀 What I've Delivered
 
-* **Backend:** C#, .NET / .NET Core, ASP.NET Core, Entity Framework Core
-* **Databases:** SQL Server, Oracle, PostgreSQL, T-SQL / PL-SQL
-* **Messaging & Distributed Systems:** RabbitMQ, Apache Kafka
-* **Cloud & DevOps:** Azure DevOps, Docker, AWS (S3, ECS, Lambda), CI/CD
-* **Observability & Quality:** Datadog, ELK Stack, SonarQube, CodeQL, xUnit
-* **Automation & AI Tooling:** n8n, Ollama (local LLMs), GitHub Copilot
+* **Tribanco (2026):** the R$ 2M to R$ 5M limit change across two .NET APIs and the Angular front end, with new contract and billing statuses that prevent double billing. Raised test coverage from 70% to 80% with xUnit.
+* **Martins / SIMTech (2021–2025):** cut PDV invoice processing from hours to minutes with parallel processing, moved the spreadsheet imports that kept crashing the CRM off its web server, and took over the Azure DevOps CI/CD setup when the consultancy's contract ended.
+* **Integrations:** automatic debit with a bank over SFTP, shipment tracking through the Correios API, and a daily customer feed to a marketing platform.
 
-## 💡 What I'm Building
+## 🤖 How I Use AI
 
-* 🏗️ **Backend architecture** — REST APIs in .NET applying Clean Architecture, automated testing, and containerization with Docker.
-* 📦 **Data-heavy batch processing** — high-volume ingestion pipelines with bulk insert strategies and scheduled job orchestration.
-* 🤖 **AI-assisted engineering workflows** — evaluating where LLMs genuinely add value in the SDLC, and where they don't. I write about what I learn, including when an experiment doesn't pan out.
+I develop with Claude Code and GitHub Copilot and review every line they produce. I also built an automated code review for my pull requests with a local LLM (GitHub → n8n → Ollama). The integration worked, but the model only summarized the diff, so I kept CodeQL and Codecov for security and coverage.
+
+## 🛠️ Tech Stack
+
+* **Backend:** C#, .NET Framework and .NET 6+, ASP.NET Core, Entity Framework Core, Dapper
+* **Databases:** SQL Server, Oracle (PL/SQL)
+* **Front end:** Angular, React, TypeScript
+* **Quality:** xUnit, SonarQube
+* **DevOps & tooling:** Azure DevOps, Jenkins, Git, Docker, RabbitMQ
+* **AI & automation:** Claude Code, GitHub Copilot, n8n, Ollama (local LLMs)
 
 ## 📫 Let's Connect
 
+* **Portfolio:** [leonardobalestere.dev](https://leonardobalestere.dev)
 * **LinkedIn:** [leonardobalestere](https://www.linkedin.com/in/leonardobalestere/)
 * **Email:** devbalestere@gmail.com
 
-Feel free to explore my pinned repositories below — always open to discussing backend architecture, distributed systems, or new opportunities.
+Looking for .NET developer roles (backend or full stack), remote or hybrid in Uberlândia, CLT or contractor. Feel free to explore my pinned repositories below.
 
 <!---
 LeonardoBalestere/LeonardoBalestere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
