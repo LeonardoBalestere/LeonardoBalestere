@@ -2,7 +2,7 @@
 
 I'm a .NET developer (backend and full stack) who builds with AI every day. I cut CPU usage of Oracle routines by 60%, halved deploy time, and delivered ahead of schedule a credit-limit increase from R$ 2M to R$ 5M at Tribanco.
 
-That's 4+ years on credit, insurance, card-acquiring and retail systems. My strength is the backend (C#, REST APIs, SQL Server and Oracle), and I also ship front-end work in Angular and React. Currently completing a degree in Information Systems Management at UFU (Federal University of Uberlândia).
+That's 4+ years on credit, insurance, card-acquiring and retail systems. My strength is the backend (C#, REST APIs, SQL Server and Oracle), and I also ship front-end work in Angular and React. Currently completing a degree in Information Systems at UFU (Federal University of Uberlândia).
 
 ## 🚀 What I've Delivered
 
